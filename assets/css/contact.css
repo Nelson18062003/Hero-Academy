@@ -1,0 +1,57 @@
+body
+{
+    color: yellow;
+
+    
+
+}
+
+/* Meet with us  page section */
+
+.section-contact-container {
+    margin: auto;
+    margin-top: 6em;
+background-image:url(https://i0.wp.com/cameroonoutlook.com/wp-content/uploads/2019/11/3046442-slide-s-9-this-startup-pays-african-students.jpg?fit=843%2C561);
+    background-color: blanchedalmond;
+    padding: 23px;
+    font-size: 17px;
+    width: 50%;
+}
+
+.section-contact-container h1,
+.section-contact-container h4 {
+    text-align: center;
+}
+
+.section-contact-container form input[type=text],
+.section-contact-container form input[type=tel],
+.section-contact-container form input[type=email],
+.section-contact-container form input[type=number],
+select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+.section-contact-container form .Button button {
+    width: 100%;
+    height: auto;
+    background-color: #dfe6e9;
+    font-size: 23px;
+    border: 0;
+    font-family: 'Piazzolla', serif;
+}
+
+.section-contact-container form .Button button:hover {
+    background-color: #2d3436;
+    color: white;
+}
+
+.botton {
+    float: right;
+     
+}
